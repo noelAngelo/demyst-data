@@ -1,5 +1,6 @@
 import pytest
 
+
 class TestParser:
 
     def test_generated_file_exists(self):
