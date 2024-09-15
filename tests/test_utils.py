@@ -1,4 +1,4 @@
-from tests.conftest import generate_csv_file
+from src.utils import generate_csv_file
 from pathlib import Path
 from loguru import logger
 import csv

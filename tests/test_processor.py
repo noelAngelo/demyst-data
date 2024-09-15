@@ -10,7 +10,6 @@ from src.processor.file import (
 from unittest.mock import patch
 from pydantic_core import ValidationError
 from models.file import File
-from loguru import logger
 import pandas as pd
 
 
